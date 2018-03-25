@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Speech To Text</string>
+  <string name="start_speech">Start Speech</string>
+</resources>
